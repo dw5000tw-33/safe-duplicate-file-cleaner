@@ -3,7 +3,7 @@
 > 找出檔名不同、位置不同，但內容完全相同的檔案。先確認，再安全整理。  
 > Find files with different names or locations but identical contents. Review first, then clean up safely.
 
-[支持 33 Works 持續開發｜Support development](https://payment.ecpay.com.tw/QuickCollect/PayData?UV8kunudvpag0i8o5BpVheak%2blji826yhTg%2f3%2bI2iDo%3d)
+[Latest release: v1.3.1](https://github.com/dw5000tw-33/safe-duplicate-file-cleaner/releases/tag/v1.3.1) · [支持 33 Works 持續開發｜Support development](https://payment.ecpay.com.tw/QuickCollect/PayData?UV8kunudvpag0i8o5BpVheak%2blji826yhTg%2f3%2bI2iDo%3d)
 
 ![33 Works](app/assets/33works-logo.png)
 
@@ -22,6 +22,7 @@
 - Recycle Bin instead of permanent deletion｜只移到 Windows 資源回收筒
 - Clear paths, sizes and dates｜清楚顯示位置、大小與修改時間
 - Local processing｜檔案全程在本機處理
+- Verified on Windows 11｜已通過 Windows 11 實機啟動、掃描與操作測試
 
 ## Features｜功能
 
@@ -38,6 +39,8 @@
 ## Download｜下載
 
 [⬇️ Download Windows v1.3.1｜下載 Windows v1.3.1](https://github.com/dw5000tw-33/safe-duplicate-file-cleaner/raw/refs/heads/main/downloads/Safe-Duplicate-File-Cleaner-Windows-v1.3.1.zip)
+
+[View release notes｜查看正式發行說明](https://github.com/dw5000tw-33/safe-duplicate-file-cleaner/releases/tag/v1.3.1)
 
 下載 ZIP 後請完整解壓縮，再雙擊 `start.cmd`。檔案的 SHA-256 可在 [SHA256SUMS.txt](SHA256SUMS.txt) 核對。
 
@@ -92,6 +95,8 @@ Windows 可能對從網路下載的批次檔或 PowerShell 指令碼顯示提醒
 - 操作步驟
 - 錯誤畫面或 `掃描錯誤.txt`
 - 測試資料的檔案數量與類型（請勿上傳私人檔案）
+
+如果這個工具對你有幫助，歡迎按下 **Star**，方便取得後續更新。
 
 ## Support 33 Works｜支持開發
 
