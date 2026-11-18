@@ -72,7 +72,7 @@
 
 原始碼公開於 `app/checker.ps1`。安全問題請參閱 [SECURITY.md](SECURITY.md)。
 
-Windows 可能對從網路下載的批次檔或 PowerShell 指令碼顯示提醒。請只從本 Repository 的 Releases 下載，並在執行前確認來源。
+Windows 可能對從網路下載的批次檔或 PowerShell 指令碼顯示提醒。請只使用本 Repository README 提供的官方下載連結，並在執行前確認來源與 SHA-256。
 
 ## Version history｜版本紀錄
 

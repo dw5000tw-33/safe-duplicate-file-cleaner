@@ -1,0 +1,24 @@
+name: 功能建議 / Feature request
+description: 說明你希望解決的實際使用問題
+title: "[Feature] "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 目前遇到的問題
+      description: 請先說明使用情境，而不只是功能名稱。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 希望的處理方式
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 現在如何處理
+      description: 如果目前已有替代流程，請簡單說明。
