@@ -3,6 +3,8 @@
 > 找出檔名不同、位置不同，但內容完全相同的檔案。先確認，再安全整理。  
 > Find files with different names or locations but identical contents. Review first, then clean up safely.
 
+[支持 33 Works 持續開發｜Support development](https://payment.ecpay.com.tw/QuickCollect/PayData?UV8kunudvpag0i8o5BpVheak%2blji826yhTg%2f3%2bI2iDo%3d)
+
 ![33 Works](app/assets/33works-logo.png)
 
 這是一套給 Windows 使用者的重複檔案整理工具。它不只比較檔名，而是先依副檔名與檔案大小篩選，再使用 SHA-256 核對檔案內容。
@@ -90,6 +92,14 @@ Windows 可能對從網路下載的批次檔或 PowerShell 指令碼顯示提醒
 - 操作步驟
 - 錯誤畫面或 `掃描錯誤.txt`
 - 測試資料的檔案數量與類型（請勿上傳私人檔案）
+
+## Support 33 Works｜支持開發
+
+這個工具免費提供，所有功能都不需要付款。如果它確實幫你節省了整理檔案的時間，歡迎透過綠界自願支持後續維護、錯誤修正與新工具開發。
+
+[透過綠界支持 33 Works](https://payment.ecpay.com.tw/QuickCollect/PayData?UV8kunudvpag0i8o5BpVheak%2blji826yhTg%2f3%2bI2iDo%3d)
+
+支持完全自願，不影響工具下載、使用或任何功能。
 
 ---
 
