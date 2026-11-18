@@ -10,6 +10,11 @@ All notable changes to this project are documented here.
 - Replaced the dynamic `Invoke-Expression` launcher with a standard PowerShell `-File` launch.
 - Added bilingual project, privacy, security and limitation documentation.
 - Added the MIT License.
+- Published the official GitHub Release and download instructions.
+
+### Verified
+
+- Successfully tested startup, scanning and normal operation on Windows 11.
 
 ### Unchanged
 
