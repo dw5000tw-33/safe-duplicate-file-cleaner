@@ -35,9 +35,9 @@
 
 ## Download｜下載
 
-請從本專案的 **Releases** 頁面下載最新版 ZIP，完整解壓縮後雙擊 `start.cmd`。
+[⬇️ Download Windows v1.3.1｜下載 Windows v1.3.1](https://github.com/dw5000tw-33/safe-duplicate-file-cleaner/raw/refs/heads/main/downloads/Safe-Duplicate-File-Cleaner-Windows-v1.3.1.zip)
 
-> 正式 Release 建立完成後，這裡會加入直接下載連結。
+下載 ZIP 後請完整解壓縮，再雙擊 `start.cmd`。檔案的 SHA-256 可在 [SHA256SUMS.txt](SHA256SUMS.txt) 核對。
 
 ### System requirements｜系統需求
 
